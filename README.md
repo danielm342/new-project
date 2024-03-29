@@ -27,5 +27,3 @@
 4. After that, you can create a pull request to merge your `development` branch with your `main` branch.
 
 These are the basic steps for working with the project.
-
-Translated with DeepL.com (free version)
